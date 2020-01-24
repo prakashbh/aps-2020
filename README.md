@@ -26,7 +26,7 @@ Do note that this is for self evaluation only and is not part of grading process
 
 **4. CIE Scores of the Class**
 ---------------------------
-Check out your performance here: TO-DO
+Check out your performance here: https://tinyurl.com/aps-2020-cie
 
 The CIE is for 70 Marks. 
 
