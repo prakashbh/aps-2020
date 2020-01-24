@@ -12,7 +12,8 @@ https://github.com/prakashbh/day-today-codes
 **2. Social Profile Id's**
 -----------------------
 Use this sheet and enter your profile IDs (HackerRank, CodeChef, Github)
-TO-DO
+https://tinyurl.com/aps-2020-ids
+The sheet will also have home work assignement problems and tracking. 
 
 
 
