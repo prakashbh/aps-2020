@@ -5,4 +5,16 @@ Class 01
 --------
 - Introduction
 - Course format structure
-- TODO
+- APS 2020 Oath
+- Handout activity to generate all possible permutations using recursion
+- Handout of efficiency classes vs input size
+- Asymptotic Notations
+- Dyck sequence and paths (dicussion and code)
+- Stable marriage problem (discussion and code)
+- Catalan nummbers - Math formula and Dyck relation
+- Tip on using INT_MAX, INT_MIN etc
+- Bitwise operations: toggling with upper and lower case characters
+
+
+Class 02
+--------
