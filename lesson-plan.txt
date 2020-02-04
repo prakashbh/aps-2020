@@ -18,4 +18,20 @@ Class 01
 
 Class 02
 --------
-TO-DO
+- DP Introduction
+- DP: Subset Sum Problem
+- DP: Rod Cutting Problems
+- Code Vie 01 Completed DP Variants
+
+
+Class 03
+--------
+- Ways to reach 3, 5, 10: Brute Force and DP
+- memset() and working
+- Pascals Triangle and obsevations
+- Pascals Triangle and Catalan numbers
+- Count the set numbers using bitwise
+- Tips: Check even or odd, Global declaration of array
+- Catalan numbers applications: Mountain Ranges problem
+- Journey to the Moon: assignment
+
