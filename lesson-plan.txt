@@ -35,3 +35,7 @@ Class 03
 - Catalan numbers applications: Mountain Ranges problem
 - Journey to the Moon: assignment
 
+
+Class 04
+--------
+To-Do
