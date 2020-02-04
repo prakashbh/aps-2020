@@ -36,6 +36,6 @@ The CIE is for 70 Marks.
 
 **5. Class Plan and Concept Coverage**
 --------------------------------------
-This sheet has all the concepts covered so far: TO-DO
+This sheet has all the concepts covered so far: https://github.com/prakashbh/aps-2020/blob/master/lesson-plan.txt
 
 Also includes all the competition details. 
