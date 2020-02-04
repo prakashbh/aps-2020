@@ -26,6 +26,7 @@ Class 02
 
 Class 03
 --------
+- Handout on generations substrings of a given string
 - Ways to reach 3, 5, 10: Brute Force and DP
 - memset() and working
 - Pascals Triangle and obsevations
