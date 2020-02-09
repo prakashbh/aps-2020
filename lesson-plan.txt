@@ -14,6 +14,7 @@ Class 01
 - Catalan nummbers - Math formula and Dyck relation
 - Tip on using INT_MAX, INT_MIN etc
 - Bitwise operations: toggling with upper and lower case characters
+- Code Vie 01 practice contest
 
 
 Class 02
@@ -21,7 +22,7 @@ Class 02
 - DP Introduction
 - DP: Subset Sum Problem
 - DP: Rod Cutting Problems
-- Code Vie 01 Completed DP Variants
+- Code Vie 02 Completition with DP Variants
 
 
 Class 03
@@ -39,4 +40,13 @@ Class 03
 
 Class 04
 --------
-To-Do
+- Handout on generation of all possible combinations of given numbers
+- Tip: using log10() to find number of digits in a number
+- Check if the ith bit is set in N
+- DP: longest increasing subsequence
+- Converting real time and math problems into graphs
+- Union find: basic version
+- Implementing Kruskal's algorithm using union-find
+- DFS 2 ordering
+- Team of 3 quiz: handout on generating subsets using bitwise, Code Vie 03 and crossword puzzle on mathematics. 
+- Code Vie 04 on DFS ordering
