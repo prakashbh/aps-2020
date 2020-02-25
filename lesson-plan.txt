@@ -50,3 +50,21 @@ Class 04
 - DFS 2 ordering
 - Team of 3 quiz: handout on generating subsets using bitwise, Code Vie 03 and crossword puzzle on mathematics. 
 - Code Vie 04 on DFS ordering
+
+
+Class 05
+--------
+- Handout on printing numbers whose sum of digits add up to 10
+- Bitwise: set ith bit, unset ith bit, check if the ith bit is set
+- Bitwise DP on assignment problem: logic, tracing and implementation
+- Union-find: root method
+- Fun fair case study : understanding the problem
+- 10 tips and tricks for competitive programming
+
+
+Class 06
+--------
+- Binomial co-efficients: basics and implementation, variants
+- Heap: understanding and implementation
+- Heap: efficiency Analysis
+- Code Vie 05 on math and bitwise operations
