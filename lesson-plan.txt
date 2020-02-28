@@ -59,6 +59,7 @@ Class 05
 - Bitwise DP on assignment problem: logic, tracing and implementation
 - Union-find: root method
 - Fun fair case study : understanding the problem
+- Palindrome problem using LCS
 - 10 tips and tricks for competitive programming
 
 
@@ -68,3 +69,8 @@ Class 06
 - Heap: understanding and implementation
 - Heap: efficiency Analysis
 - Code Vie 05 on math and bitwise operations
+
+
+Class 07
+--------
+TO-DO
