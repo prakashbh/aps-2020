@@ -73,4 +73,30 @@ Class 06
 
 Class 07
 --------
-TO-DO
+- Handout on verification of subset sum
+- Subset sum using DP
+- Bitwise: if-else assignment, min, max
+- Union-Find: weighted union method and implementation
+- PBL Fun-Fair analysis of student group submissions relating to course principles
+- Fun-Fair: Foundation to Week of Code
+- Heap revision, code and analysis
+- Code Vie 06 on Heaps (Questions from HackerRank)
+
+
+Class 08
+--------
+- Week of Code
+- Kadane's algorithm
+- MO's algorithm (square root decomposition) - theory
+- Segment Tree : theory
+- Lookup Table : theory and details
+- Sparse Table : theory and code
+- Isolating first set bit : bitwise
+- Fenwick Tree (BIT) : theory and code
+- Analysis of week of code : journey by far
+- 6 handouts with respect to each
+- Week of Code on HackerRank with 6  challenges
+
+
+Class 09
+--------
