@@ -106,5 +106,6 @@ Class 09
 - Josephus Problem
 - Jugglers Sequence
 - MO's algorithm: Design and Implementation
+- Riddles: 10 riddles covering 10 math concepts
 
 
