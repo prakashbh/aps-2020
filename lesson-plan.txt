@@ -100,3 +100,11 @@ Class 08
 
 Class 09
 --------
+- Take-Home classes
+- COVID-19 challenges
+- oeis.org
+- Josephus Problem
+- Jugglers Sequence
+- MO's algorithm: Design and Implementation
+
+
