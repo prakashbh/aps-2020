@@ -107,5 +107,16 @@ Class 09
 - Jugglers Sequence
 - MO's algorithm: Design and Implementation
 - Riddles: 10 riddles covering 10 math concepts
+- Catalan Implementation and another example
+
+
+Class 10
+--------
+- Graph You class
+- Covers DFS, BFS, Dijkstra, Prim, Kruskal, Floyd, Warshall, Bellman-Ford
+- Each concept covers: Audio notes, notes, codes, handbook and an exercise
+- Estimated effort: 15 to 20 hours to complete
+
+
 
 
